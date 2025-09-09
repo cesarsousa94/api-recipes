@@ -69,7 +69,7 @@ L5_SWAGGER_GENERATE_ALWAYS=true
 
 4) Frontend (Vue + Tailwind)
    4.1 Clonar e preparar
-   git clone git@seu-git.com:voce/web-recipes.git
+   git clone git@github.com:cesarsousa94/web-recipes.git
    cd web-recipes
    npm i
 
