@@ -1,5 +1,8 @@
 # RecipesAPI
 
+https://github.com/cesarsousa94/api-recipes
+https://github.com/cesarsousa94/web-recipes
+
 API (Laravel 12) com:
 Autenticação (Sanctum/Bearer)
 CRUD de Receitas (criar, listar/pesquisar, editar, excluir, imprimir PDF)
